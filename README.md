@@ -77,5 +77,5 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para 
 
 ## Contato
 Nome - [knnob9@hgmail.com](mailto:knnob9@hgmail.com)
-LinkedIn - [kleber-barros-4236](https://www.linkedin.com/in/kleber-barros-4236/)
+LinkedIn - [kleber-barros-4236](https://www.linkedin.com/in/kleber-barros-42369712b/)
 GitHub - [kleberbarros9](https://github.com/kleberbarros9)
