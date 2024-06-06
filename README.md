@@ -32,7 +32,9 @@
 ## Estrutura do Projeto
 - `Assets/Scripts`: Scripts C#
 - `Assets/Scenes`: Cenas do jogo
-- `Assets/Sound`: Arquivos de áudio
+- `Assets/Prefabs`: Prefabs
+- `Assets/Audio`: Arquivos de áudio
+- `Assets/Images`: Texturas usadas no jogo
 
 
 ## Fluxo do Jogo
@@ -41,10 +43,16 @@
     - Botões:
         - **Start**: Inicia o jogo
         - **Créditos**: Mostra a tela de créditos
+
+    ![Menu inicial](/img/StartScene.png)
+
+
 2. **Tela de Jogo**:
     - Jogador controla uma esfera com a textura da Terra
     - Coleta cubos de energia na Via Láctea
     - Jogo termina ao coletar 10 cubos, levando à tela de créditos
+
+    ![Tela do jogo](/img/GameScene.png)
 3. **Tela de Créditos**:
     - Mostra a equipe de desenvolvimento:
         - Kleber Barros (01691348)
@@ -52,9 +60,11 @@
         - Tiffany Almeida (01533205)
         - Ylgner Cavalcanti (01237934)
     - `Enter` ou `Espaço` leva à tela de game over
+
+    ![Tela do Créditos](/img/CreditScene.png)
 4. **Tela de Game Over**:
     - Pressione `ESC` para voltar ao menu
-
+    ![Tela do jogo](/img/GameOverScene.png)
 ## Contribuição
 1. Fork o repositório
 2. Crie um branch para sua feature (`git checkout -b feature/nova-feature`)
