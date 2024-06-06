@@ -1,7 +1,7 @@
 # Earth - Cosmic Cube Hunter
 
 ## Descrição
-"Earth - Cosmic Cube Hunter" é um jogo onde o jogador controla uma esfera com a textura da Terra que rola pela Via Láctea. O *objetivo* é coletar cubos de energia espalhados, necessários para a sobrevivência e expansão da humanidade pela galáxia. O jogo termina quando o jogador coleta 10 cubos de energia, levando para a tela de créditos. 
+"Earth - Cosmic Cube Hunter" é um jogo onde o jogador controla uma esfera com a textura da Terra que rola pela Via Láctea. O **objetivo** é coletar cubos de energia espalhados, necessários para a sobrevivência e expansão da humanidade pela galáxia. O jogo termina quando o jogador coleta 10 cubos de energia, levando para a tela de créditos. 
 
 ## Instalação
 
@@ -66,7 +66,7 @@
     - Pressione `ESC` para voltar ao menu
     ![Tela do jogo](/img/GameOverScene.png)
 
-*Obs.*: Todas as telas possuem músicas temáticas.
+**Obs.**: Todas as telas possuem músicas temáticas.
 
 ## Contribuição
 1. Fork o repositório
