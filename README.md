@@ -78,6 +78,10 @@
 ## Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
+## URL
+
+itch.io [earth-ccb](https://kleberbarros.itch.io/earth-cosmic-cube-hunter)
+
 ## Contato
 Nome - [knnob9@hgmail.com](mailto:knnob9@hgmail.com)
 LinkedIn - [kleber-barros-4236](https://www.linkedin.com/in/kleber-barros-42369712b/)
